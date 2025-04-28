@@ -63,10 +63,15 @@ env
 Copy
 Edit
 CONSUMER_KEY=your_safaricom_consumer_key
+
 CONSUMER_SECRET=your_safaricom_consumer_secret
+
 BUSINESS_SHORTCODE=your_business_shortcode
+
 PASSKEY=your_safaricom_passkey
+
 CALLBACK_URL=https://yourdomain.com/callback
+
 ENVIRONMENT=sandbox  # or 'production'
 ⚡ Tip: Never expose your credentials publicly!
 
